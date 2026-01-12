@@ -15,7 +15,7 @@ import java.util.List;
 
 
 /**
- * @auther macrozheng
+ * @auther macrozheng3
  * @description 品牌管理Controller
  * @date 2019/4/19
  * @github https://github.com/macrozheng
